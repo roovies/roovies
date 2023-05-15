@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=40&duration=3000&pause=1000&color=0025FF9F&background=FF000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=jihwan's%20GitHub&descAlign=70.&descAlignY=44)
 
 ### <span style="text-decoration:none">📚 Tech Stack 📚</span>
 ##### Techs that I've used at least once
@@ -23,7 +23,7 @@
 #### ✨ Database ✨
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  
+
 #### ✨ OS ✨
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
