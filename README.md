@@ -26,7 +26,7 @@
   
 #### ✨ Tools ✨
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 #### ✨ OS ✨
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
