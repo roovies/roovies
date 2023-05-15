@@ -27,6 +27,7 @@
 #### ✨ Tools ✨
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intelliJ&logoColor=white"/>
 
 #### ✨ OS ✨
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
