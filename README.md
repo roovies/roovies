@@ -38,7 +38,8 @@
 #### ✨ OS ✨
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  
+<br><br>
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roovies&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=roovies&show_icons=true">
 </div>
